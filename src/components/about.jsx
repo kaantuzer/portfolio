@@ -4,13 +4,14 @@ import { FaCode, FaLaptopCode, FaUserGraduate } from "react-icons/fa";
 function About() {
   const skills = [
     "React", "JavaScript", "Tailwind CSS", "Python", "HTML", "CSS",
-    "ASP.Net", "SQL", "Excel", "Power Automate", "Power BI", "Git"
+    "ASP.Net", "SQL", "Excel", "Power Automate", "Power BI", "Git", "jQuery",
+    "Machine Learning", "AI", "C#"
   ];
 
   return (
     <section id="about" className="py-20 bg-gradient-to-br from-blue-50 to-purple-100 px-6">
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-        
+
         {/* Profil Foto */}
         <div className="flex justify-center">
           <img
