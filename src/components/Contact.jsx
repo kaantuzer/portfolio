@@ -13,7 +13,7 @@ function Contact() {
 
       {/* Email Button */}
       <a
-        href="mailto:kaan@example.com"
+        href="mailto:kaantzer@hotmail.com"
         className="inline-flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-full text-lg font-medium hover:bg-blue-700 transition duration-300 shadow-lg"
       >
         <FaEnvelope />
@@ -23,7 +23,7 @@ function Contact() {
       {/* Social Media Links */}
       <div className="mt-10 flex justify-center gap-6 text-3xl">
         <a
-          href="https://github.com/kaan"
+          href="https://github.com/kaantuzer"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-600 hover:text-black transition"
@@ -31,7 +31,7 @@ function Contact() {
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com/in/kaan"
+          href="https://www.linkedin.com/in/kaan-t%C3%BCzer-3b9ba7231/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-700 hover:text-blue-900 transition"

@@ -1,4 +1,4 @@
-import cvFile from '../assets/kaancv.pdf';
+import cvFile from '../assets/kaancv2.pdf';
 import { FaDownload, FaEye } from 'react-icons/fa';
 
 function CV() {
