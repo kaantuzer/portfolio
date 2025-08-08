@@ -3,18 +3,18 @@ import { FaSmileBeam, FaUsers, FaLightbulb } from "react-icons/fa";
 function SocialExperience() {
   const experiences = [
     {
-      title: "Team Lead – Hackathon 2024 🧠",
-      description: "Led a team of 5 during a 48-hour hackathon. Built an AI-powered wellness app that placed in top 10.",
+      title: "Cave Organizations, Founder",
+      description: "I organized entertainment events, ensuring high attendee satisfaction and strong participation. I successfully managed logistics, marketing, and event execution, enhancing community engagement.",
       icon: <FaLightbulb />,
     },
     {
-      title: "TEDx Volunteer 🎤",
-      description: "Organized speaker logistics, stage setup, and managed backstage operations during TEDx Istanbul.",
+      title: "Bau Sports Club, Vice President",
+      description: "I organized and managed events in BAU Sports Club, the most populous club at the university.I organized sports events, enhancing student engagement and promoting a healthy lifestyle.",
       icon: <FaUsers />,
     },
     {
-      title: "Community Mentor 🌱",
-      description: "Mentored high school students on tech careers and helped them build their first mini web apps.",
+      title: "Bau Team 22, Engineering Consultant",
+      description: "I worked as an engineering consultant for prospective students. I provided guidance on engineering departments and career paths, helping students make informed decisions.",
       icon: <FaSmileBeam />,
     },
   ];
