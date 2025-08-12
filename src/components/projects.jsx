@@ -39,8 +39,8 @@ function Projects() {
       description: "Game of Thrones fan site built with HTML, CSS, and JavaScript.",
       link: "https://github.com/kaantuzer/Front-End-Project1?tab=readme-ov-file",
       language: "HTML, CSS, JavaScript",
-      isLive: false,
-      live: "https://www.kaantuzer.com/"
+      isLive: true,
+      live: "https://kaantuzer.github.io/Front-End-Project1/"
     },
     {
       title: " Crypto Prediction App - Graduation project",
